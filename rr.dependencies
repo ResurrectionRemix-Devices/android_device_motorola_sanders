@@ -1,6 +1,6 @@
 [
   {
-    "repository":  "Rajssss/proprietary_vendor_motorola_sanders",
+    "repository":  "Rajssss/android_vendor_motorola_sanders",
     "target_path": "vendor/motorola/sanders",
     "branch": "9.0"
   },
